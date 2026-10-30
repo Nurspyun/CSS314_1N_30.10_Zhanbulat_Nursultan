@@ -1,0 +1,13 @@
+{
+  "dimension": 704,
+  "compiler": "clang -O3 (native C loops called by Python/ctypes)",
+  "naive_ijk_median_seconds": 0.3209646249997604,
+  "interchanged_ikj_median_seconds": 0.046426457999587,
+  "naive_time_s": 0.3209646249997604,
+  "interchanged_time_s": 0.046426457999587,
+  "speedup": 6.9133989287448046,
+  "max_abs_error": 0.0,
+  "reference_checksum": 87322491.34749198,
+  "optimized_checksum": 87322491.34749198,
+  "tolerance": 1e-12
+}

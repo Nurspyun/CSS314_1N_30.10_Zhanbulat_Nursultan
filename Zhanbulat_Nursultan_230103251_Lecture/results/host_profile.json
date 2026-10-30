@@ -1,0 +1,22 @@
+{
+  "cpu_model": "Apple M3",
+  "microarchitecture": "Apple M3 (ARMv8.6-A family; exact core mix not exposed via portable API)",
+  "base_frequency_hz": null,
+  "frequency_note": "macOS does not expose a stable base frequency for Apple Silicon via sysctl",
+  "physical_cores": 8,
+  "logical_threads": 8,
+  "smt": false,
+  "cache_bytes": {
+    "L1_data": 65536,
+    "L2": 4194304,
+    "L3": null
+  },
+  "cache_line_bytes": 128,
+  "os": "macOS-15.2-arm64-arm-64bit-Mach-O",
+  "kernel": "24.2.0",
+  "python": {
+    "version": "3.13.2 (main, Feb  4 2025, 14:51:09) [Clang 16.0.0 (clang-1600.0.26.6)]",
+    "implementation": "CPython",
+    "executable": "/Users/iliyas/Documents/Codex/2026-10-30/new-chat/work/labvenv/bin/python"
+  }
+}
